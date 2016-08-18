@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(22, 75, 22);
+    background-color: rgb(202, 75, 92);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(266, 26, 197);
+    color: rgb(26, 16, 17);
 }
 
 h2{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(5, 18, 763);
+    color: rgb(45, 148, 763);
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(154, 192, 128);
+    color: rgb(124, 92, 78);
     text-decoration: none;
 }
 
@@ -46,11 +46,11 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: yellow;
     font-size: 110%;
     background:gray;
     padding: 4px;
-    border:1px solid white;
+    border:1px solid yellow;
 }
 
 .button {
@@ -62,8 +62,8 @@ img{
 }
 
 .redacted{
-    background-color: rgb(25, 26, 19);
-    color:  rgb(215, 206, 199);
+    background-color: rgb(305, 90, 432);
+    color:  rgb(7, 8, 9);
 }
 
 .half{
