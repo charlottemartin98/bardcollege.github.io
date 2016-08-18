@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(22, 75, 22);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(266, 26, 197);
 }
 
 h2{
@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: rgb(5, 18, 763);
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rgb(154, 192, 128);
     text-decoration: none;
 }
 
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
+    background-color: rgb(25, 26, 19);
     color:  rgb(215, 206, 199);
 }
 
