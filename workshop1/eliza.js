@@ -202,6 +202,7 @@ var rules = {
   ],
   "~*x someone ~*y": [
     "Can you be more specific?",
+    "Who?",
   ],
   "~*x everyone ~*y": [
     "Surely not everyone",
